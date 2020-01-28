@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name             = "DingTalkUI"                         #Pod的名字
+  spec.name             = "DingtalkUI"                         #Pod的名字
   spec.version          = "1.0.0"                                     #版本号
   spec.summary          = "DingtalkUI for DingtalkPod [MonkeyDev]"
   spec.description      = "DingtalkPod 修改钉钉GPS打卡位置,需要MonkeyDev"
